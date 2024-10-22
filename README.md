@@ -28,7 +28,5 @@ An online code editor that allows users to write HTML, CSS, and JavaScript code 
 
 Make sure you have **Node.js** and **npm** installed on your local development environment.
 
-1. **Clone the repository:**
+1. **Clone the repository:**git clone https://github.com/alimausmani/online-code-editor
    ```bash
-  
-  git clone https://github.com/alimausmani/online-code-editor
